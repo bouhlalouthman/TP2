@@ -15,6 +15,6 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
     }
     fun substract_isCorrect() {
-        assertEquals(4, 8 - 3)
+        assertEquals(5, 8 - 3)
     }
 }
